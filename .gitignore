@@ -1,0 +1,29 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Git
+.git/
+
+# Compiled binaries
+*.exe
+*.o
+*.out
+
+# Dependencies
+*.a
+*.lib
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raylib build artifacts
+*.so
+*.dylib
